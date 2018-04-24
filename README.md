@@ -16,3 +16,5 @@ python wordvectors.py fullvoc.txt < output > filtered
 ```
 
 - Upload to [wordvectors.org](http://wordvectors.org)
+
+- [Google Code](https://code.google.com/archive/p/word2vec/) for Word2Vec
